@@ -4,7 +4,7 @@
   margin: 0;
   color: #ffffff;
 }
-
+ /* element styling */
 body {
   background-color: #d9dcd6;
 }
@@ -57,7 +57,7 @@ h1 {
   p {
     font-size: 16px;
   }
-
+/* padding font and color for header class */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -68,7 +68,7 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
-
+/* links and sizes background image */
 .hero {
   height: 800px;
   width: 100%;
@@ -77,12 +77,12 @@ h1 {
   background-size: cover;
   background-position: center;
 }
-
+/* moves image to the left of the section */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/* moves image to the right of the section */
 .float-right {
   float: right;
   margin-left: 25px;
@@ -96,7 +96,7 @@ h1 {
 .content img {
   max-height: 200px;
 }
-
+/* Sets styling for benefits and elements withing the benefits class */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -123,6 +123,7 @@ h1 {
   max-width: 150px;
 }
 
+/* Sets size, font and color for services class */
 .services {
   margin-bottom: 20px;
   padding: 50px;
